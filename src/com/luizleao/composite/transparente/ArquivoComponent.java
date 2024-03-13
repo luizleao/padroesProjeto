@@ -1,4 +1,4 @@
-package br.estacio.composite.transparente;
+package com.luizleao.composite.transparente;
 
 // Classe componente
 public abstract class ArquivoComponent {

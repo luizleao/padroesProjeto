@@ -1,4 +1,4 @@
-package br.estacio.builder;
+package com.luizleao.builder;
 
 public class Cliente {
 	public static void main(String[] args) {

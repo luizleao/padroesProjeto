@@ -1,4 +1,4 @@
-package br.estacio.chain;
+package com.luizleao.chain;
 
 public abstract class PagamentoChain {
 

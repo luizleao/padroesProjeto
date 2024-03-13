@@ -1,4 +1,4 @@
-package br.estacio.strategy;
+package com.luizleao.strategy;
 
 public class Funcionario {
 	public static final int DESENVOLVEDOR = 1;

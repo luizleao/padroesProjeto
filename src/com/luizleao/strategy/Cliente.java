@@ -1,4 +1,4 @@
-package br.estacio.strategy;
+package com.luizleao.strategy;
 
 public class Cliente {
 	public static void main(String[] args) {

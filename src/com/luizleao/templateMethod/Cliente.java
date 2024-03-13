@@ -1,4 +1,4 @@
-package br.estacio.templateMethod;
+package com.luizleao.templateMethod;
 
 public class Cliente {
 	public static void main(String[] args) {

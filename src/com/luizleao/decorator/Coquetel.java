@@ -1,4 +1,4 @@
-package br.estacio.decorator;
+package com.luizleao.decorator;
 
 public abstract class Coquetel {
 	String nome;

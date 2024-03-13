@@ -1,4 +1,4 @@
-package br.estacio.flyweight;
+package com.luizleao.flyweight;
 
 import java.util.ArrayList;
 

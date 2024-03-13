@@ -1,4 +1,4 @@
-package br.estacio.command;
+package com.luizleao.command;
 
 public class Cliente {
 	public static void main(String[] args) {

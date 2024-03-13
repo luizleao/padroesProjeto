@@ -1,4 +1,4 @@
-package br.estacio.adapter;
+package com.luizleao.adapter;
 
 public class PngImagem {
 

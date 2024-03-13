@@ -1,4 +1,4 @@
-package br.estacio.state;
+package com.luizleao.state;
 
 public class MarioFogo implements MarioState {
 

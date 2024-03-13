@@ -1,4 +1,4 @@
-package br.estacio.proxy;
+package com.luizleao.proxy;
 import java.text.DecimalFormat;
 
 public class Banco {

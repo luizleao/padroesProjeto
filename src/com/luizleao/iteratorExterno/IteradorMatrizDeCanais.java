@@ -1,4 +1,4 @@
-package br.estacio.iteratorExterno;
+package com.luizleao.iteratorExterno;
 
 public class IteradorMatrizDeCanais implements IteradorInterface {
 	protected Canal[] lista;

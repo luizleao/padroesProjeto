@@ -1,4 +1,4 @@
-package br.estacio.facade2;
+package com.luizleao.facade2;
 
 public class Cliente {
 	public static void main(String[] args) {

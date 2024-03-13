@@ -1,4 +1,4 @@
-package br.estacio.prototype2;
+package com.luizleao.prototype2;
 
 abstract class DocumentoPrototype implements Cloneable {
 	protected DocumentoPrototype clone() {

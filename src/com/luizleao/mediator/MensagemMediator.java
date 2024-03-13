@@ -1,4 +1,4 @@
-package br.estacio.mediator;
+package com.luizleao.mediator;
 
 import java.util.ArrayList;
 

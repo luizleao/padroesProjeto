@@ -1,4 +1,4 @@
-package br.estacio.visitor;
+package com.luizleao.visitor;
 
 public class Cliente {
 	public static void main(String[] args) {

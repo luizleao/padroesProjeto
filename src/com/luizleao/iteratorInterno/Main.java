@@ -1,8 +1,8 @@
-package br.estacio.iteratorInterno;
+package com.luizleao.iteratorInterno;
 
-import br.estacio.iteratorExterno.AgregadoDeCanais;
-import br.estacio.iteratorExterno.CanaisEsportes;
-import br.estacio.iteratorExterno.CanaisFilmes;
+import com.luizleao.iteratorExterno.AgregadoDeCanais;
+import com.luizleao.iteratorExterno.CanaisEsportes;
+import com.luizleao.iteratorExterno.CanaisFilmes;
 
 public class Main {
 	public static void main(String[] args) {

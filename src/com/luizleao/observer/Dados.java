@@ -1,4 +1,4 @@
-package br.estacio.observer;
+package com.luizleao.observer;
 
 public class Dados {
 	int valorA, valorB, valorC;

@@ -1,4 +1,4 @@
-package br.estacio.command;
+package com.luizleao.command;
 
 public class PagamentoCartaoCredito implements PagamentoCommand {
 	int qtdParcelas;

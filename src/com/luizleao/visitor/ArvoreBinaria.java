@@ -1,4 +1,4 @@
-package br.estacio.visitor;
+package com.luizleao.visitor;
 
 public class ArvoreBinaria {
 	No raiz;

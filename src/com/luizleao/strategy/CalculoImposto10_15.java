@@ -1,4 +1,4 @@
-package br.estacio.strategy;
+package com.luizleao.strategy;
 
 public class CalculoImposto10_15 implements StrategyCalculoImposto {
 	@Override

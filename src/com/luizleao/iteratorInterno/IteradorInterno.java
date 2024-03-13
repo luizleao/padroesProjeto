@@ -1,7 +1,7 @@
-package br.estacio.iteratorInterno;
+package com.luizleao.iteratorInterno;
 
-import br.estacio.iteratorExterno.Canal;
-import br.estacio.iteratorExterno.IteradorInterface;
+import com.luizleao.iteratorExterno.Canal;
+import com.luizleao.iteratorExterno.IteradorInterface;
 
 public abstract class IteradorInterno {
 

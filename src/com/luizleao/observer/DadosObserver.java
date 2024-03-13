@@ -1,4 +1,4 @@
-package br.estacio.observer;
+package com.luizleao.observer;
 
 public abstract class DadosObserver {
 	protected DadosSubject dados;

@@ -1,4 +1,4 @@
-package br.estacio.chain;
+package com.luizleao.chain;
 
 public class Cliente {
 	public static void main(String[] args) {

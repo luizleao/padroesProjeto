@@ -1,4 +1,4 @@
-package br.estacio.observer;
+package com.luizleao.observer;
 
 public class Cliente {
 	public static void main(String[] args) {

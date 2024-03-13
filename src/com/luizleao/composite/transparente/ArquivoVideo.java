@@ -1,4 +1,4 @@
-package br.estacio.composite.transparente;
+package com.luizleao.composite.transparente;
 
 public class ArquivoVideo extends ArquivoComponent {
 

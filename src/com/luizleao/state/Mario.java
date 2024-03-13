@@ -1,4 +1,4 @@
-package br.estacio.state;
+package com.luizleao.state;
 
 public class Mario {
 	protected MarioState estado;

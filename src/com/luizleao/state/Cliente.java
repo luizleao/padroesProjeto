@@ -1,4 +1,4 @@
-package br.estacio.state;
+package com.luizleao.state;
 
 public class Cliente {
 	public static void main(String[] args) {

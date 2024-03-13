@@ -1,4 +1,4 @@
-package br.estacio.facade;
+package com.luizleao.facade;
 
 public class Facade {
 	protected Funcionario funcionario;

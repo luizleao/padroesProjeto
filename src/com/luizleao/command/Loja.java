@@ -1,4 +1,4 @@
-package br.estacio.command;
+package com.luizleao.command;
 
 public class Loja {
 	protected String nome;

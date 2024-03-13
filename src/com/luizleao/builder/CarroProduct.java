@@ -1,4 +1,4 @@
-package br.estacio.builder;
+package com.luizleao.builder;
 
 public class CarroProduct {
   public double preco;

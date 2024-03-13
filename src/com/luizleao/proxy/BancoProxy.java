@@ -1,4 +1,4 @@
-package br.estacio.proxy;
+package com.luizleao.proxy;
 
 public class BancoProxy extends Banco {
 

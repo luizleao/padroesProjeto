@@ -1,4 +1,4 @@
-package br.estacio.prototype;
+package com.luizleao.prototype;
 
 public class Cliente {
 	public static void main(String[] args) {

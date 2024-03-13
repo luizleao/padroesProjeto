@@ -1,4 +1,4 @@
-package br.estacio.abstractFactory;
+package com.luizleao.abstractFactory;
 
 public interface CarroPopular {
 	void exibirInfoPopular();

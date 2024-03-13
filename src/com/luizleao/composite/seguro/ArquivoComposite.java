@@ -1,4 +1,4 @@
-package br.estacio.composite.seguro;
+package com.luizleao.composite.seguro;
 
 import java.util.ArrayList;
 

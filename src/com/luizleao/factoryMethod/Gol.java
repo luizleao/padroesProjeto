@@ -1,4 +1,4 @@
-package br.estacio.factoryMethod;
+package com.luizleao.factoryMethod;
 
 public class Gol implements Carro {
 

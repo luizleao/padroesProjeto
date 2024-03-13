@@ -1,4 +1,4 @@
-package br.estacio.iterator;
+package com.luizleao.iterator;
 
 public class Cliente {
 	public static void main(String[] args) {

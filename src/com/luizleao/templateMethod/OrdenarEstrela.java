@@ -1,4 +1,4 @@
-package br.estacio.templateMethod;
+package com.luizleao.templateMethod;
 
 public class OrdenarEstrela extends OrdenarTemplate {
 

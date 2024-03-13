@@ -1,4 +1,4 @@
-package br.estacio.bridge;
+package com.luizleao.bridge;
 public class JanelaLinux implements IJanela {
 
 	@Override

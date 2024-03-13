@@ -1,4 +1,4 @@
-package br.estacio.decorator;
+package com.luizleao.decorator;
 
 public class Cliente {
 	public static void main(String[] args) {

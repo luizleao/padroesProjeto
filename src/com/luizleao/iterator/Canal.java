@@ -1,4 +1,4 @@
-package br.estacio.iterator;
+package com.luizleao.iterator;
 
 public class Canal {
 	String nome;

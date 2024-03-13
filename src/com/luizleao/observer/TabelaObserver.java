@@ -1,4 +1,4 @@
-package br.estacio.observer;
+package com.luizleao.observer;
 
 public class TabelaObserver extends DadosObserver {
 	public TabelaObserver(DadosSubject dados) {

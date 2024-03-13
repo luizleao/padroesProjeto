@@ -1,4 +1,4 @@
-package br.estacio.iterator;
+package com.luizleao.iterator;
 
 import java.util.ArrayList;
 

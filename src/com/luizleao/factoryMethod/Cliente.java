@@ -1,4 +1,4 @@
-package br.estacio.factoryMethod;
+package com.luizleao.factoryMethod;
 
 public class Cliente {
 	public static void main(String[] args) {

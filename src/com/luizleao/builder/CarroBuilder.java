@@ -1,4 +1,4 @@
-package br.estacio.builder;
+package com.luizleao.builder;
 
 public abstract class CarroBuilder {
 	protected CarroProduct carro = new CarroProduct();

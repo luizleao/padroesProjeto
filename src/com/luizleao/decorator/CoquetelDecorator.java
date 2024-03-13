@@ -1,4 +1,4 @@
-package br.estacio.decorator;
+package com.luizleao.decorator;
 
 public abstract class CoquetelDecorator extends Coquetel {
 	Coquetel coquetel;

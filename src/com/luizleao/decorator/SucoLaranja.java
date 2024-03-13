@@ -1,4 +1,4 @@
-package br.estacio.decorator;
+package com.luizleao.decorator;
 
 public class SucoLaranja extends CoquetelDecorator {
 	public SucoLaranja(Coquetel oCoquetel) {

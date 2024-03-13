@@ -1,4 +1,4 @@
-package br.estacio.mediator;
+package com.luizleao.mediator;
 
 public abstract class Colleague {
 	protected Mediator mediator;

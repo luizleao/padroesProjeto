@@ -1,4 +1,4 @@
-package br.estacio.singleton;
+package com.luizleao.singleton;
 
 public class Cliente {
 

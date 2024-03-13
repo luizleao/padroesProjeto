@@ -1,4 +1,4 @@
-package br.estacio.facade2;
+package com.luizleao.facade2;
 
 public class Facade {
 	protected Audio audio;

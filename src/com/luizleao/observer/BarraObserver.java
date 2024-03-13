@@ -1,4 +1,4 @@
-package br.estacio.observer;
+package com.luizleao.observer;
 
 public class BarraObserver extends DadosObserver {
 	public BarraObserver(DadosSubject dados) {

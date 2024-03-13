@@ -1,4 +1,4 @@
-package br.estacio.visitor;
+package com.luizleao.visitor;
 
 public class No {
 	protected int chave;

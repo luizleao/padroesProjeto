@@ -1,4 +1,4 @@
-package br.estacio.memento;
+package com.luizleao.memento;
 
 public class TextoMemento {
 	protected String estadoTexto;

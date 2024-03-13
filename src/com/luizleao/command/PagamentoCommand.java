@@ -1,4 +1,4 @@
-package br.estacio.command;
+package com.luizleao.command;
 
 public interface PagamentoCommand {
 	void processarCompra(Compra compra);

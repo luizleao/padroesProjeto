@@ -1,4 +1,4 @@
-package br.estacio.mediator;
+package com.luizleao.mediator;
 
 public class Cliente {
 	public static void main(String[] args) {

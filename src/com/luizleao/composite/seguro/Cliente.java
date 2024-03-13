@@ -1,4 +1,4 @@
-package br.estacio.composite.seguro;
+package com.luizleao.composite.seguro;
 
 public class Cliente {
 

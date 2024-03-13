@@ -1,4 +1,4 @@
-package br.estacio.bridge;
+package com.luizleao.bridge;
 
 public class Cliente {
 	public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package br.estacio.prototype2;
+package com.luizleao.prototype2;
 
 class ASCIIPrototype extends DocumentoPrototype {
 	

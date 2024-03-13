@@ -1,4 +1,4 @@
-package br.estacio.strategy;
+package com.luizleao.strategy;
 
 interface StrategyCalculoImposto {
 	double calcularSalarioImposto(Funcionario oFuncionario);

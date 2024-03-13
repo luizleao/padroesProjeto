@@ -1,4 +1,4 @@
-package br.estacio.mediator;
+package com.luizleao.mediator;
 
 public class WindowsPhoneColleague extends Colleague {
 
